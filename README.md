@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Feverfew/Feverfew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I'm Alex a 4th year MEng Mathematical Computation student studying at UCL.
